@@ -1,0 +1,31 @@
+/* YOUR CUSTOM STYLES */
+
+.center{
+    width:50%;
+}
+
+.body{
+    background-size: auto;
+    background-position: left;
+}
+
+nav{
+    z-index: 900;
+}
+
+main {
+    padding-top: 6rem;
+    padding-bottom: 2rem;
+}
+
+.navbar {
+    background-color: #53463d;
+}
+
+body.register{
+    background-image: url('../img/goden.png')
+}
+
+body.loggin{
+    background-image: url('../img/wallpaper_Y000003.jpg')
+}
